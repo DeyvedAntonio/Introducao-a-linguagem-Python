@@ -1,0 +1,13 @@
+# Operações matemáticas
+print("soma: 2 + 2")
+print(2+2)
+print("subtração: 2 - 2")
+print(2-2)
+print("multiplicação: 5 * 3")
+print(5*3)
+print("divisão: 10 / 2")
+print(10/2)
+print("exponencição: 3 ** 3")
+print(3**3)
+print("modulo: 10 % 3")
+print(10%3)
