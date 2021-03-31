@@ -7,3 +7,6 @@ while (x < 10):
 minhaLista = [10, 26, 15, 78, 45]
 for i in minhaLista:
     print(i)
+
+for j in range(0, 9):
+    print(j)
