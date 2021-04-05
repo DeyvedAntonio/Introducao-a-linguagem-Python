@@ -34,3 +34,19 @@ print(x1, x2)
 lista = [50, 35, 10]
 lista.sort()
 print(lista)
+
+# questão 05
+a = int(input("Digite um número: "))
+b = int(input("Digite outro número: "))
+c = str(input("Digite um sinal: (+, -, /, *) "))
+
+if c == "+":
+    print(a + b)
+elif c == "-":
+    print(a - b)
+elif c == '/':
+    print(a / b)
+elif c == '*':
+    print(a * b)
+else:
+    print("Caractere inválido.")
