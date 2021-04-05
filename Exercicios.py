@@ -29,3 +29,8 @@ x2 = (-b - s)/(2 * a)
 
 print("As raízes são: ")
 print(x1, x2)
+
+# questão 04
+lista = [50, 35, 10]
+lista.sort()
+print(lista)
